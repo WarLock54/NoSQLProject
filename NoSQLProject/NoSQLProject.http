@@ -1,0 +1,6 @@
+@NoSQLProject_HostAddress = http://localhost:5127
+
+GET {{NoSQLProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
